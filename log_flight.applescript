@@ -1,4 +1,4 @@
-#!/usr/bin/env osascript
+#!/usr/bin/osascript
 
 on date_to_iso(dt)
 	set {year:y, month:m, day:d} to dt
